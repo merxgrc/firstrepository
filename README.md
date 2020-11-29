@@ -1,2 +1,2 @@
 # firstrepository
-learning gihub
+learning github
